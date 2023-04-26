@@ -31,11 +31,11 @@
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="618" height="220">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Srul1k/Srul1k/pull/2) in [Srul1k/Srul1k](https://github.com/Srul1k/Srul1k)
-2. ❗️ Opened issue [#11](https://github.com/cum-foundations/x-bot/issues/11) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
-3. ❗️ Closed issue [#2](https://github.com/cum-foundations/x-bot/issues/2) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
-4. 🗣 Commented on [#2](https://github.com/cum-foundations/x-bot/issues/2) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
-5. ❗️ Closed issue [#10](https://github.com/cum-foundations/x-bot/issues/10) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
+1. ❗️ Closed issue [#8](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/8) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+2. 🎉 Merged PR [#12](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/12) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+3. 💪 Opened PR [#12](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/12) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+4. 🎉 Merged PR [#2](https://github.com/Srul1k/Srul1k/pull/2) in [Srul1k/Srul1k](https://github.com/Srul1k/Srul1k)
+5. ❗️ Opened issue [#11](https://github.com/cum-foundations/x-bot/issues/11) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
 <!--END_SECTION:activity-->
 
 </details>
