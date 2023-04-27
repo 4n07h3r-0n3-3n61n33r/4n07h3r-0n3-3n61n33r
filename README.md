@@ -28,6 +28,8 @@
 <details>
   <summary>🕑 Recent Activity</summary>
 
+<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="420" height="196">
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/8) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
 2. 🎉 Merged PR [#12](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/12) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
