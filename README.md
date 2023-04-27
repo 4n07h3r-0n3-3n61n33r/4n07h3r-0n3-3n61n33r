@@ -28,7 +28,9 @@
 <details>
   <summary>🕑 Recent Activity</summary>
 
-<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491" width="420" height="196">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491">
+
+  <br>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/8) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
@@ -37,6 +39,8 @@
 4. 🎉 Merged PR [#2](https://github.com/Srul1k/Srul1k/pull/2) in [Srul1k/Srul1k](https://github.com/Srul1k/Srul1k)
 5. ❗️ Opened issue [#11](https://github.com/cum-foundations/x-bot/issues/11) in [cum-foundations/x-bot](https://github.com/cum-foundations/x-bot)
 <!--END_SECTION:activity-->
+
+  <br>
 
 </details>
 
