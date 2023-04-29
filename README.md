@@ -33,11 +33,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/18) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-2. 🎉 Merged PR [#17](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/17) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-3. 💪 Opened PR [#17](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/17) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-4. 🎉 Merged PR [#16](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/16) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-5. 💪 Opened PR [#16](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/16) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+1. 🎉 Merged PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+2. 💪 Opened PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+3. ❗️ Closed issue [#19](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/19) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+4. 🎉 Merged PR [#20](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/20) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+5. 💪 Opened PR [#20](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/20) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
