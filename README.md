@@ -33,11 +33,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/grochowski/obsidian-folder-focus-mode/issues/19) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
-2. 🎉 Merged PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-3. 💪 Opened PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-4. ❗️ Closed issue [#19](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/19) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-5. 🎉 Merged PR [#20](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/20) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+1. ❗ Opened issue [#19](https://github.com/grochowski/obsidian-folder-focus-mode/issues/19) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
+2. 🚀 Published release [v1.0.1](https://github.com/v1.0.1) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+3. 🎉 Merged PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+4. 💪 Opened PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+5. 🔒 Closed issue [#19](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/19) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
