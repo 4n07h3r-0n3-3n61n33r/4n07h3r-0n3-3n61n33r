@@ -33,11 +33,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/grochowski/obsidian-folder-focus-mode/issues/17) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
-2. ❗ Opened issue [#19](https://github.com/grochowski/obsidian-folder-focus-mode/issues/19) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
-3. 🚀 Published release [v1.0.1](https://github.com/v1.0.1) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-4. 🎉 Merged PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-5. 💪 Opened PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+1. ❗ Opened issue [#22](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/22) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+2. 🗣 Commented on [#17](https://github.com/grochowski/obsidian-folder-focus-mode/issues/17) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
+3. ❗ Opened issue [#19](https://github.com/grochowski/obsidian-folder-focus-mode/issues/19) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
+4. 🚀 Published release [v1.0.1](https://github.com/v1.0.1) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+5. 🎉 Merged PR [#21](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/21) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
