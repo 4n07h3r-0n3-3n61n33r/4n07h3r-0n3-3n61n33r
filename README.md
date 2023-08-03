@@ -33,11 +33,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/33) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-2. 💪 Opened PR [#33](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/33) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-3. 🎉 Merged PR [#32](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/32) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-4. 💪 Opened PR [#32](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/32) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-5. 🎉 Merged PR [#31](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/31) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+1. 🔒 Closed issue [#27](https://github.com/cum-foundations/tdpdne-telegram-bot/issues/27) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+2. 🚀 Published release [v1.2.0](https://github.com/cum-foundations/tdpdne-telegram-bot/releases/tag/v1.2.0) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+3. 🎉 Merged PR [#35](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/35) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+4. 💪 Opened PR [#35](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/35) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
+5. 🎉 Merged PR [#34](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/34) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
