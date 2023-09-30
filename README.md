@@ -11,8 +11,6 @@
 - 📫 How to reach me:  
   <a href="https://t.me/Srul1k">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
-  <a href="https://matrix.to/#/@srul1k:matrix.org">
-    <img src="https://img.shields.io/badge/-Matrix-blueviolet"></a>
   <a href="mailto:srul1k@keemail.me">
     <img src="https://img.shields.io/badge/Tutanota-840010?&logo=Tutanota&logoColor=white"></a>  
 - ⚡ Fun fact: look at the commits created in *2020* 👀
