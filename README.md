@@ -31,11 +31,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Srul1k/srul1k.github.io/pull/1) in [Srul1k/srul1k.github.io](https://github.com/Srul1k/srul1k.github.io)
-2. ❗ Opened issue [#79](https://github.com/gurland/telegram-delete-all-messages/issues/79) in [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages)
-3. 🎉 Merged PR [#36](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/36) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-4. 💪 Opened PR [#36](https://github.com/cum-foundations/tdpdne-telegram-bot/pull/36) in [cum-foundations/tdpdne-telegram-bot](https://github.com/cum-foundations/tdpdne-telegram-bot)
-5. 🗣 Commented on [#17](https://github.com/grochowski/obsidian-folder-focus-mode/issues/17#issuecomment-2239484108) in [grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
+1. 💪 Opened PR [#2](https://github.com/Srul1k/QuickLink/pull/2) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+2. 🎉 Merged PR [#1](https://github.com/Srul1k/QuickLink/pull/1) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+3. 💪 Opened PR [#1](https://github.com/Srul1k/QuickLink/pull/1) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+4. 🎉 Merged PR [#1](https://github.com/Srul1k/srul1k.github.io/pull/1) in [Srul1k/srul1k.github.io](https://github.com/Srul1k/srul1k.github.io)
+5. ❗ Opened issue [#79](https://github.com/gurland/telegram-delete-all-messages/issues/79) in [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages)
 <!--END_SECTION:activity-->
 
 </details>
