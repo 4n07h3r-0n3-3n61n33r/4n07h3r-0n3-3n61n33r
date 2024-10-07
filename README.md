@@ -4,15 +4,14 @@
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
 
-- 🔭 I’m currently working for [C.U.M.](https://github.com/cum-foundations)💦
 - 🌱 I’m currently learning C#, ASP.NET Core, CS, OSINT, Linux  
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
 - 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 How to reach me:  
-  <a href="https://t.me/Srul1k">
+  <a href="https://t.me/another_one_employee">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
-  <a href="mailto:srul1k@keemail.me">
-    <img src="https://img.shields.io/badge/Tutanota-840010?&logo=Tutanota&logoColor=white"></a>  
+  <a href="mailto:another.one.employee@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
 - ⚡ Fun fact: look at the commits created in *2020* 👀
 
 <details>
@@ -28,26 +27,26 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=another-one-employee&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/Srul1k/tdpdne-telegram-bot/issues/37) in [Srul1k/tdpdne-telegram-bot](https://github.com/Srul1k/tdpdne-telegram-bot)
-2. 🎉 Merged PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-3. 💪 Opened PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-4. 🎉 Merged PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-5. 💪 Opened PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+1. ❗ Opened issue [#37](https://github.com/another-one-employee/tdpdne-telegram-bot/issues/37) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+2. 🎉 Merged PR [#5](https://github.com/another-one-employee/QuickLink/pull/5) in [another-one-employee/QuickLink](https://github.com/another-one-employee/QuickLink)
+3. 💪 Opened PR [#5](https://github.com/another-one-employee/QuickLink/pull/5) in [another-one-employee/QuickLink](https://github.com/another-one-employee/QuickLink)
+4. 🎉 Merged PR [#4](https://github.com/another-one-employee/QuickLink/pull/4) in [another-one-employee/QuickLink](https://github.com/another-one-employee/QuickLink)
+5. 💪 Opened PR [#4](https://github.com/another-one-employee/QuickLink/pull/4) in [another-one-employee/QuickLink](https://github.com/another-one-employee/QuickLink)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>🔮 GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
 
   <br>
 
-  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Srul1k&count_private=true&show_icons=true&hide_title=true&bg_color=15,0d1b36,8e2491&border_color=0d1b36&title_color=cfcfcf&icon_color=d5acf2&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srul1k&layout=compact&bg_color=15,8e2491,0d1b36&border_color=0d1b36&title_color=cfcfcf&text_color=cfcfcf" /></a> |
+  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=another-one-employee&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,dfa88e&border_color=2b2727&title_color=cfcfcf&icon_color=dfa88e&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=another-one-employee&layout=compact&bg_color=15,dfa88e,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
 | ------------- | ------------- |
 
 </details>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Srul1k&color=blueviolet">
+<img align="right" src="https://komarev.com/ghpvc/?username=another-one-employee&color=dfa88e">
