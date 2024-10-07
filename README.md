@@ -31,11 +31,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Srul1k&hide_title=true&hide_border=true&area=true&bg_color=0d1b36&color=e3dede&line=8e2491)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Srul1k/QuickLink/pull/2) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-2. 💪 Opened PR [#2](https://github.com/Srul1k/QuickLink/pull/2) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-3. 🎉 Merged PR [#1](https://github.com/Srul1k/QuickLink/pull/1) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-4. 💪 Opened PR [#1](https://github.com/Srul1k/QuickLink/pull/1) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-5. 🎉 Merged PR [#1](https://github.com/Srul1k/srul1k.github.io/pull/1) in [Srul1k/srul1k.github.io](https://github.com/Srul1k/srul1k.github.io)
+1. ❗ Opened issue [#37](https://github.com/Srul1k/tdpdne-telegram-bot/issues/37) in [Srul1k/tdpdne-telegram-bot](https://github.com/Srul1k/tdpdne-telegram-bot)
+2. 🎉 Merged PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+3. 💪 Opened PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+4. 🎉 Merged PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+5. 💪 Opened PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
 <!--END_SECTION:activity-->
 
 </details>
