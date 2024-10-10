@@ -30,11 +30,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=another-one-employee&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/Srul1k/tdpdne-telegram-bot/issues/37) in [Srul1k/tdpdne-telegram-bot](https://github.com/Srul1k/tdpdne-telegram-bot)
-2. 🎉 Merged PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-3. 💪 Opened PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-4. 🎉 Merged PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
-5. 💪 Opened PR [#4](https://github.com/Srul1k/QuickLink/pull/4) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
+1. 💪 Opened PR [#39](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/39) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+2. 🎉 Merged PR [#38](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/38) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+3. 💪 Opened PR [#38](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/38) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+4. ❗ Opened issue [#37](https://github.com/Srul1k/tdpdne-telegram-bot/issues/37) in [Srul1k/tdpdne-telegram-bot](https://github.com/Srul1k/tdpdne-telegram-bot)
+5. 🎉 Merged PR [#5](https://github.com/Srul1k/QuickLink/pull/5) in [Srul1k/QuickLink](https://github.com/Srul1k/QuickLink)
 <!--END_SECTION:activity-->
 
 </details>
