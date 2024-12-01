@@ -30,11 +30,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=another-one-employee&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5674](https://github.com/marcizhu/marcizhu/issues/5674) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗ Opened issue [#5669](https://github.com/marcizhu/marcizhu/issues/5669) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗ Opened issue [#5577](https://github.com/marcizhu/marcizhu/issues/5577) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗ Opened issue [#5569](https://github.com/marcizhu/marcizhu/issues/5569) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-5. ❗ Opened issue [#37723](https://github.com/timburgan/timburgan/issues/37723) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🚀 Published release [v1.0.0](https://github.com/another-one-employee/Selenium.WebDriverExtensions/releases/tag/v1.0.0) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+2. 🎉 Merged PR [#3](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/3) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+3. 💪 Opened PR [#3](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/3) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+4. 🎉 Merged PR [#2](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/2) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+5. 💪 Opened PR [#2](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/2) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
 <!--END_SECTION:activity-->
 
 </details>
