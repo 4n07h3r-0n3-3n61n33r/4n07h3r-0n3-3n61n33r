@@ -30,11 +30,11 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=another-one-employee&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/another-one-employee/Selenium.WebDriverExtensions/releases/tag/v1.0.0) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
-2. 🎉 Merged PR [#3](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/3) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
-3. 💪 Opened PR [#3](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/3) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
-4. 🎉 Merged PR [#2](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/2) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
-5. 💪 Opened PR [#2](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/2) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+1. 🚀 Published release [v1.2.1](https://github.com/another-one-employee/tdpdne-telegram-bot/releases/tag/v1.2.1) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+2. 🎉 Merged PR [#40](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/40) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+3. 💪 Opened PR [#40](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/40) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
+4. 🚀 Published release [v1.0.0](https://github.com/another-one-employee/Selenium.WebDriverExtensions/releases/tag/v1.0.0) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+5. 🎉 Merged PR [#3](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/3) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
 <!--END_SECTION:activity-->
 
 </details>
