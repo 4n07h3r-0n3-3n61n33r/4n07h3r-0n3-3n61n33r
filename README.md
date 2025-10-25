@@ -1,6 +1,6 @@
 <img src="res/README/helloworld.gif" height="41" width="237">  
 
-**Welcome to my GitHub profile:**
+<img src="res/README/popcat.gif" height="25" width="22"> **Welcome to my GitHub profile:**
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
 
@@ -27,7 +27,7 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=8e2de5)
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack/issues/1) in [nightbringer641/Stellar-Data-Recovery-Pro-Crack](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack)
@@ -44,9 +44,9 @@
 
   <br>
 
-  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,dfa88e&border_color=2b2727&title_color=cfcfcf&icon_color=dfa88e&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,dfa88e,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
+  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,8e2de5&border_color=2b2727&title_color=cfcfcf&icon_color=8e2de5&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,8e2de5,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
 | ------------- | ------------- |
 
 </details>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=dfa88e">
+<img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=8e2de5">
