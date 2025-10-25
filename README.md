@@ -27,7 +27,7 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=8e2de5)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=504646&color=e3dede&line=8e2de5)
 
 <!--START_SECTION:activity-->
 1. ❌ Assigned PR [#41](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
@@ -44,7 +44,7 @@
 
   <br>
 
-  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,8e2de5&border_color=2b2727&title_color=cfcfcf&icon_color=8e2de5&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,8e2de5,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
+  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,504646,8e2de5&border_color=504646&title_color=fcc9a7&icon_color=8e2de5&text_color=fcc9a7" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,8e2de5,504646&border_color=504646&title_color=fcc9a7&text_color=fcc9a7" /></a> |
 | ------------- | ------------- |
 
 </details>
