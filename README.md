@@ -30,8 +30,8 @@
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=8e2de5)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack/issues/1) in [nightbringer641/Stellar-Data-Recovery-Pro-Crack](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack)
-2. 🎉 Merged PR [#4](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/4) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
+1. ❌ Assigned PR [#41](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
+2. ❌ Closed PR [#39](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
 3. 💪 Opened PR [#4](https://github.com/another-one-employee/Selenium.WebDriverExtensions/pull/4) in [another-one-employee/Selenium.WebDriverExtensions](https://github.com/another-one-employee/Selenium.WebDriverExtensions)
 4. 🚀 Published release [v1.2.1](https://github.com/another-one-employee/tdpdne-telegram-bot/releases/tag/v1.2.1) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
 5. 🎉 Merged PR [#40](https://github.com/another-one-employee/tdpdne-telegram-bot/pull/40) in [another-one-employee/tdpdne-telegram-bot](https://github.com/another-one-employee/tdpdne-telegram-bot)
