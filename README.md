@@ -4,9 +4,9 @@
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
 
-- 🌱 I’m currently learning C#, ASP.NET Core, CS, OSINT, Linux  
+- 🌱 I’m currently learning Python, ML, CS, OSINT
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
-- 💞️ I’m looking to collaborate on any interesting open source project
+- 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆
 - 📫 How to reach me:  
   <a href="https://t.me/another_one_engineer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
