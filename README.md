@@ -8,7 +8,7 @@
 - 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
 - 💞️ I’m looking to collaborate on any interesting open source project
 - 📫 How to reach me:  
-  <a href="https://t.me/another_one_employee">
+  <a href="https://t.me/another_one_engineer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
   <a href="mailto:another.one.employee@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
@@ -27,7 +27,7 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=another-one-employee&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=2b2727&color=e3dede&line=dfa88e)
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack/issues/1) in [nightbringer641/Stellar-Data-Recovery-Pro-Crack](https://github.com/nightbringer641/Stellar-Data-Recovery-Pro-Crack)
@@ -44,9 +44,9 @@
 
   <br>
 
-  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=another-one-employee&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,dfa88e&border_color=2b2727&title_color=cfcfcf&icon_color=dfa88e&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=another-one-employee&layout=compact&bg_color=15,dfa88e,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
+  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,2b2727,dfa88e&border_color=2b2727&title_color=cfcfcf&icon_color=dfa88e&text_color=cfcfcf" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,dfa88e,2b2727&border_color=2b2727&title_color=cfcfcf&text_color=cfcfcf" /></a> |
 | ------------- | ------------- |
 
 </details>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=another-one-employee&color=dfa88e">
+<img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=dfa88e">
