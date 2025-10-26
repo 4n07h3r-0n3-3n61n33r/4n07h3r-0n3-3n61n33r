@@ -1,18 +1,26 @@
 <img src="res/README/helloworld.gif" height="41" width="237">  
 
-<img src="res/README/popcat.gif" height="25" width="22"> **Welcome to my GitHub profile:**
+<img src="res/README/popcat.gif" height="25" width="22">
+<span style="font-family: monospace; font-weight: bold;">Welcome to my GitHub profile:</span>
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
-
-- 🌱 I’m currently learning Python, ML, CS, OSINT
-- 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜  
-- 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆
-- 📫 How to reach me:  
+<br>
+<span style="font-family: monospace;">• 🌱 I’m currently learning Python, ML, CS, OSINT</span>
+<br>
+<span style="font-family: monospace;">• 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜</span>
+<br> 
+<span style="font-family: monospace;">• 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆</span>
+<br>
+<span style="font-family: monospace;">• 📫 How to reach me:  </span>
+<br>
   <a href="https://t.me/another_one_engineer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/another-one-engineer/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white"></a>
   <a href="mailto:another.one.employee@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
-- ⚡ Fun fact: look at the commits created in *2020* 👀
+<br>
+<span style="font-family: monospace;">• ⚡ Fun fact: look at the commits created in *2020* 👀</span>
 
 <details>
   <summary>🛠️ Stack and Tools</summary>
