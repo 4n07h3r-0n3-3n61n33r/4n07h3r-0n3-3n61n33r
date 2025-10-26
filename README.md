@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white"></a>
   <a href="mailto:another.one.employee@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
-<br>
 <span style="font-family: monospace;">• ⚡ Fun fact: look at the commits created in *2020* 👀</span>
 <br>
 
