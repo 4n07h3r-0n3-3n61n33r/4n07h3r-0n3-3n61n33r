@@ -1,10 +1,9 @@
 <img src="res/README/helloworld.gif" height="41" width="237">  
 
-<img src="res/README/popcat.gif" height="25" width="22">
-<span style="font-family: monospace; font-weight: bold;">Welcome to my GitHub profile:</span>
+<img src="res/README/popcat.gif" height="25" width="22"><span style="font-family: monospace; font-weight: bold;">Welcome to my GitHub profile:</span>
 
 <img align="right" src="res/README/octocat-anime.gif" width="150">
-<br>
+
 <span style="font-family: monospace;">• 🌱 I’m currently learning Python, ML, CS, OSINT</span>
 <br>
 <span style="font-family: monospace;">• 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜</span>
@@ -21,6 +20,7 @@
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
 <br>
 <span style="font-family: monospace;">• ⚡ Fun fact: look at the commits created in *2020* 👀</span>
+<br>
 
 <details>
   <summary>🛠️ Stack and Tools</summary>
