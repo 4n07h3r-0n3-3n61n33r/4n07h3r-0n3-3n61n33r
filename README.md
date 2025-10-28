@@ -34,9 +34,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/beezeetee/TDPDNE/pull/2#issuecomment-3450353884) in [beezeetee/TDPDNE](https://github.com/beezeetee/TDPDNE)
 2. 💪 Opened PR [#2](undefined) in [beezeetee/TDPDNE](https://github.com/beezeetee/TDPDNE)
-3. 💪 Opened PR [#42](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
-4. ❌ Assigned PR [#41](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
-5. ❌ Closed PR [#39](undefined) in [4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot](https://github.com/4n07h3r-0n3-3n61n33r/tdpdne-telegram-bot)
+3. 💪 Opened PR [#42](undefined) in [b4d-c0mp4ny/tdpdne-telegram-bot](https://github.com/b4d-c0mp4ny/tdpdne-telegram-bot)
+4. ❌ Assigned PR [#41](undefined) in [b4d-c0mp4ny/tdpdne-telegram-bot](https://github.com/b4d-c0mp4ny/tdpdne-telegram-bot)
+5. ❌ Closed PR [#39](undefined) in [b4d-c0mp4ny/tdpdne-telegram-bot](https://github.com/b4d-c0mp4ny/tdpdne-telegram-bot)
 <!--END_SECTION:activity-->
 
 </details>
