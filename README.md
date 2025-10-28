@@ -11,13 +11,8 @@
 <span style="font-family: monospace;">• 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆</span>
 <br>
 <span style="font-family: monospace;">• 📫 How to reach me:  </span>
-<br>
-  <a href="https://t.me/another_one_engineer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/another-one-engineer/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white"></a>
   <a href="mailto:another.one.employee@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white"></a>  
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?&logo=protonmail&logoColor=white&style=plastic"></a>  
 <span style="font-family: monospace;">• ⚡ Fun fact: look at the commits created in *2020* 👀</span>
 <br>
 
@@ -57,3 +52,4 @@
 </details>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=8e2de5">
+
