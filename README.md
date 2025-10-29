@@ -8,7 +8,7 @@
 <br>
 <span style="font-family: monospace;">• 💬 I'm looking forwad to any advice regarding the languages and tools I use 💜</span>
 <br> 
-<span style="font-family: monospace;">• 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆</span>
+<span style="font-family: monospace;">• 💞️ I'm looking for gigachades to help me push commits in [Kaia](https://github.com/okulovsky/kaia) 🍆💦</span>
 <br>
 <span style="font-family: monospace;">• 📫 How to reach me:  </span>
   <a href="mailto:another.one.employee@protonmail.com">
@@ -50,6 +50,7 @@
 | ------------- | ------------- |
 
 </details>
-
+<span style="font-size: 1px;">• 🛡 protected by the S1N6U14R17Y 🦾🤖</span>
 <img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=8e2de5">
+
 
