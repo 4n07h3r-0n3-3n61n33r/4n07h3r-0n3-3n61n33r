@@ -26,7 +26,7 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=0e0707&color=e3dede&line=8e2de5)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=f0f0f0&color=dd6262&line=dd6262)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/beezeetee/TDPDNE/pull/2#issuecomment-3460215909) in [beezeetee/TDPDNE](https://github.com/beezeetee/TDPDNE)
@@ -43,7 +43,7 @@
 
   <br>
 
-  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,0e0707,8e2de5&border_color=0e0707&title_color=fdf1da&icon_color=8e2de5&text_color=fdf1da" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,8e2de5,0e0707&border_color=0e0707&title_color=fdf1da&text_color=fdf1da" /></a> |
+  | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=4n07h3r-0n3-3n61n33r&count_private=true&show_icons=true&hide_title=true&bg_color=15,dd6262,8e2de5&border_color=f0f0f0&title_color=f0f0f0&icon_color=8e2de5&text_color=f0f0f0" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n07h3r-0n3-3n61n33r&layout=compact&bg_color=15,8e2de5,dd6262&border_color=f0f0f0&title_color=f0f0f0&text_color=f0f0f0" /></a> |
 | ------------- | ------------- |
 
 </details>
