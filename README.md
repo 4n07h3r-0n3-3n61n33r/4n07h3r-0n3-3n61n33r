@@ -26,7 +26,7 @@
 
   <br>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4n07h3r-0n3-3n61n33r&hide_title=true&hide_border=true&area=true&bg_color=f0f0f0&color=dd6262&line=dd6262)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4n07h3r-0n3-3n61n33r&theme=buefy)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/beezeetee/TDPDNE/pull/2#issuecomment-3460215909) in [beezeetee/TDPDNE](https://github.com/beezeetee/TDPDNE)
