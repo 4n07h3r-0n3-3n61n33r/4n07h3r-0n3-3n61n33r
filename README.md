@@ -47,8 +47,9 @@
 | ------------- | ------------- |
 
 </details>
-<span style="font-size: 1px;">• 🛡 protected by the S1N6U14R17Y 🦾🤖 && https://t.me/Biokarnyxow 🔍</span>
+<span style="font-size: 1px;">• 🛡 protected by https://t.me/Biokarnyxow 🔍</span>
 <img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=8e2de5">
+
 
 
 
