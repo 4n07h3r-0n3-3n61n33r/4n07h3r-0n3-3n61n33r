@@ -1,8 +1,8 @@
 <img src="res/README/helloworld.gif" height="41" width="237">  
 
-<img src="res/README/popcat.gif" height="25" width="22"><span style="font-family: monospace; font-weight: bold;">Welcome to my GitHub profile:</span>
+<span style="font-family: monospace; font-weight: bold;">**Welcome to my GitHub profile:**</span>
 
-<img align="right" src="res/README/octocat-anime.gif" width="150">
+<img align="right" src="res/README/popcat.gif" width="150">
 
 <span style="font-family: monospace;">• 🌱 I’m currently learning Python, ML, CS, OSINT</span>
 <br>
@@ -47,8 +47,11 @@
 | ------------- | ------------- |
 
 </details>
-<span style="font-size: 1px;">• 🛡 protected by https://t.me/Biokarnyxow 🔍</span>
+
+<span style="font-size: 1px;">• 🛡 protected by [Karnyxow](https://t.me/Biokarnyxow) 🔍</span>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=4n07h3r-0n3-3n61n33r&color=8e2de5">
+
 
 
 
